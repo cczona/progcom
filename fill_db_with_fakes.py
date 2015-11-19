@@ -27,7 +27,7 @@ def main():
                 "is complete, clearly written, and articulate",
                 "has a thorough and achievable outline",
                 "has a coherent and primarily technical subject",
-                "is about the Python ecosystem",
+                "is material relevant to Python and Pythonistas",
                 "has a sufficient audience among attendees"]
     for s in standards:
         l.add_standard(s)
